@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<head>
+	<title>Indice de prácticas</title>
+</head>
+<body bgcolor="#c6e2ff">
+	<h1><big>Listado de prácticas</big></h1><hr>
+
+	<a href="https://manuelquintero28.github.io/Practica2/Practica2.html">Práctica 2 - Elementos html e hipervínculos</a><br><br>
+	<a href="https://manuelquintero28.github.io/Practica3/Practica%203.html">Práctica 3 - Formularios en html</a><br><br>
+	<a href="https://manuelquintero28.github.io/Practica4/Practicabootstrap.html">Práctica 4 - Práctica bootstrap 1</a><br><br>
+	<a href="https://manuelquintero28.github.io/Practica5/Practicabootstrap2.1.html">Práctica 5 - Práctica bootstrap 2</a><br><br>
+
+	<p>Quintero Molina José Manuel 4AVP Cetis107 &copy;</p>
+</body>
+</html>
